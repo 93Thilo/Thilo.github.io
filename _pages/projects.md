@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: false
 ---
 
 Hi, I’m **Thiloshana Kushanki**, a Data Analyst skilled in MS Excel, Python, SQL, R, and Power BI.
