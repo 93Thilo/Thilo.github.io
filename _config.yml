@@ -16,8 +16,8 @@
 title: Thiloshana Kushanki
 subtitle: Data Analyst
 email: thiloshana.kushanki@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"
-Data Analyst | Python | SQL | PowerBI | R
+description: Data Analyst | Python | SQL | PowerBI | R #>- # this means to ignore newlines until "baseurl:"
+
 #twitter_username: username
 github_username: 93Thilo
 linkedin_username: Thiloshana Kushanki
