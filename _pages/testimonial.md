@@ -1,7 +1,8 @@
 ---
 permalink: /testimonial/
 title: "Testimonial"
-author_profile: true
+layout: single
+author_profile: false
 ---
 
 Testimonal!
