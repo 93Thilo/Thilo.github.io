@@ -11,6 +11,7 @@ Hi, Below is my CV!
    class="btn btn--primary btn--large">
 📄 Download Resume (PDF)
 </a>
+---
 
 <iframe src="/assets/resume/Thiloshana_Kushanki_Resume.pdf"
         width="100%"
