@@ -57,10 +57,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-#author:
-#  name   : "Thiloshana Kushanki"
-#  avatar : "/assets/images/grad.jpg"
-#  bio    : "Data Analyst skilled in Python, SQL, and data visualization."
+author:
+  name   : "Thiloshana Kushanki"
+  avatar : "/assets/images/grad.jpg"
+  bio    : "Data Analyst skilled in Python, SQL, and data visualization."
 #  links:
 #    - label: "LinkedIn"
 #      icon: "fab fa-fw fa-linkedin"
