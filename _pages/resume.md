@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Hi, Below is my CV!
-
+---
 <a href="assets/images/Thiloshana Kushanki_CV.pdf"
    class="btn btn--primary btn--large">
 📄 Download Resume (PDF)
