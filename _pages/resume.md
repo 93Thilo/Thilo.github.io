@@ -2,7 +2,7 @@
 title: Resume
 layout: single
 permalink: /resume/
-author_profile: false
+author_profile: true
 ---
 
 Hi, Below is my CV!
