@@ -13,7 +13,8 @@ Hi, Below is my CV!
 </a>
 ---
 
-<iframe src="assets/images/Thiloshana Kushanki_CV.pdf"
+<iframe src="/assets/images/Thiloshana Kushanki_CV.pdf"
         width="100%"
         height="800px">
 </iframe>
+---
